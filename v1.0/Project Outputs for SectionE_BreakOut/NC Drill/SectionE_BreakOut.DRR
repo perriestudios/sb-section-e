@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SectionE_BreakOut.PcbDoc   04-11-2020  14:33:28
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SectionE_BreakOut.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             22        PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)                                             Round             22        PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Round             16        PTH        0.00inch (0.00mm)
+T4      40mil (1.02mm)                                            Round             20        PTH        0.00inch (0.00mm)
+T5      43mil (1.1mm)                                             Round             28        PTH        0.00inch (0.00mm)
+T6      47mil (1.2mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T7      51mil (1.3mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T8      118mil (3mm)                                              Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              125
+
+Total Processing Time (hh:mm:ss) : 00:00:00

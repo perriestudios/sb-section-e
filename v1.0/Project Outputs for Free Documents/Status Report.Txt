@@ -1,0 +1,25 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 22:46:32 On 03-11-2020
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [SectionE_BreakOut.PcbDoc]
+   Generated File[SectionE_BreakOut.GTO]
+   Generated File[SectionE_BreakOut.GTP]
+   Generated File[SectionE_BreakOut.GTS]
+   Generated File[SectionE_BreakOut.GTL]
+   Generated File[SectionE_BreakOut.GBL]
+   Generated File[SectionE_BreakOut.GBS]
+   Generated File[SectionE_BreakOut.GBP]
+   Generated File[SectionE_BreakOut.GBO]
+   Generated File[SectionE_BreakOut.GKO]
+   Generated File[SectionE_BreakOut.RUL]
+   Generated File[SectionE_BreakOut.EXTREP]
+   Generated File[SectionE_BreakOut.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 22:46:38 On 03-11-2020

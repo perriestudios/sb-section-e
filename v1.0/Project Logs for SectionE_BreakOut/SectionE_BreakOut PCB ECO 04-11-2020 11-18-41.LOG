@@ -1,0 +1,52 @@
+Change Component Footprint: Designator=J5 Old Footprint=FP-S4B-ZR_LF_SN-MFG New Footprint=TE_440055-4
+Change Component Footprint: Designator=J7 Old Footprint=FP-S4B-ZR_LF_SN-MFG New Footprint=TE_440055-4
+Change Component Footprint: Designator=J11 Old Footprint=FP-S4B-ZR_LF_SN-MFG New Footprint=TE_440055-4
+Change Component Comment : Designator=J5 Old Comment=S4B-ZR(LF)(SN) New Comment=440055-4
+Change Component Comment : Designator=J7 Old Comment=S4B-ZR(LF)(SN) New Comment=440055-4
+Change Component Comment : Designator=J11 Old Comment=S4B-ZR(LF)(SN) New Comment=440055-4
+Change Managed Component Library Link : Designator=J5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=2EF2F490-15E8-4B81-8D94-E168FECF8728 New ItemGUID= Old RevisionGUID=E2DD558E-17E9-472C-9B55-FB7B9160FFE8 New RevisionGUID=
+Change Managed Component Library Link : Designator=J7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=2EF2F490-15E8-4B81-8D94-E168FECF8728 New ItemGUID= Old RevisionGUID=E2DD558E-17E9-472C-9B55-FB7B9160FFE8 New RevisionGUID=
+Change Managed Component Library Link : Designator=J11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=2EF2F490-15E8-4B81-8D94-E168FECF8728 New ItemGUID= Old RevisionGUID=E2DD558E-17E9-472C-9B55-FB7B9160FFE8 New RevisionGUID=
+Change component parameters: Designator = "J5" ("J5"); Footprint = "FP-S4B-ZR_LF_SN-MFG"; UniqueID = "\FAQRJKDB" ("\FAQRJKDB")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Centerline_Pitch"; Value = "2 mm[.079 in]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2374829"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2374829"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "440055-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number_of_Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product_Type"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/440055-4/TE%20Connectivity%20AMP%20Connectors/view-part/2374829/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J7" ("J7"); Footprint = "FP-S4B-ZR_LF_SN-MFG"; UniqueID = "\EQPHBGZR" ("\EQPHBGZR")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Centerline_Pitch"; Value = "2 mm[.079 in]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2374829"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2374829"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "440055-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number_of_Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product_Type"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/440055-4/TE%20Connectivity%20AMP%20Connectors/view-part/2374829/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J11" ("J11"); Footprint = "FP-S4B-ZR_LF_SN-MFG"; UniqueID = "\HYXSXWXR" ("\HYXSXWXR")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Centerline_Pitch"; Value = "2 mm[.079 in]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2374829"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2374829"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "440055-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number_of_Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product_Type"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/440055-4/TE%20Connectivity%20AMP%20Connectors/view-part/2374829/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=SectionE_BreakOut
