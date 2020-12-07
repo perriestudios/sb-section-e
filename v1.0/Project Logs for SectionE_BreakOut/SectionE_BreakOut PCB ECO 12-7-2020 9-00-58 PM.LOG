@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+3V3 Pin=P1-1
+Removed Pin From Net: NetName=SW2 Pin=P1-2
+Added Pin To Net: NetName=+3V3 Pin=P1-1
+Added Pin To Net: NetName=+12V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=SW2 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Member To Class: ClassName=SectionE_BreakOut Member=Component P1 B4B-PH-K-S(LF)(SN)
+Added Room: Name=SectionE_BreakOut

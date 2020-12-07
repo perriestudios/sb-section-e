@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=SW2 Pin=P3-2
+Removed Pin From Net: NetName=+3V3 Pin=P4-1
+Removed Pin From Net: NetName=SW3 Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-4
+Removed Member From Class: ClassName=SectionE_BreakOut Member=P4
+Change Managed Component Library Link : Designator=P2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=247F3200-4979-423C-9AAF-059D2905EEA8 New ItemGUID= Old RevisionGUID=8A95687C-B6E0-4212-A53A-92452CADB3C8 New RevisionGUID=
+Change Managed Component Library Link : Designator=P3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=247F3200-4979-423C-9AAF-059D2905EEA8 New ItemGUID= Old RevisionGUID=8A95687C-B6E0-4212-A53A-92452CADB3C8 New RevisionGUID=
+Change component parameters: Designator = "P2" ("P2"); Footprint = "JST-B4B-PH-K-S_V"; UniqueID = "\QZKXYGFK" ("\QZKXYGFK")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "455-1706-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com.tr/product-detail/en/jst-sales-america-inc/B4B-PH-K-S_LF__SN_/455-1706-ND/926613?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-PH-K-S_LF__SN_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-PH-K-S%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/422410/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3" ("P3"); Footprint = "JST-B4B-PH-K-S_V"; UniqueID = "\RNHCDTRQ" ("\RNHCDTRQ")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "455-1706-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com.tr/product-detail/en/jst-sales-america-inc/B4B-PH-K-S_LF__SN_/455-1706-ND/926613?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-PH-K-S_LF__SN_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-PH-K-S%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/422410/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=P1-1
+Added Pin To Net: NetName=SW2 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=SW3 Pin=P3-2
+Added Member To Class: ClassName=SectionE_BreakOut Member=Component P1 B4B-PH-K-S(LF)(SN)
+Added Room: Name=SectionE_BreakOut

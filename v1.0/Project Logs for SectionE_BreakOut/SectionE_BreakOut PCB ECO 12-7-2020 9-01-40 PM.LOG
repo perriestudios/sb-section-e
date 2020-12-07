@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=SW2 Pin=P1-2
+Removed Pin From Net: NetName=SW3 Pin=P3-2
+Change Managed Component Library Link : Designator=P2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=247F3200-4979-423C-9AAF-059D2905EEA8 Old RevisionGUID= New RevisionGUID=8A95687C-B6E0-4212-A53A-92452CADB3C8
+Change Managed Component Library Link : Designator=P3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=247F3200-4979-423C-9AAF-059D2905EEA8 Old RevisionGUID= New RevisionGUID=8A95687C-B6E0-4212-A53A-92452CADB3C8
+Change component parameters: Designator = "P2" ("P2"); Footprint = "JST-B4B-PH-K-S_V"; UniqueID = "\UGIVTUJT" ("\UGIVTUJT")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B4B-PH-K-S%28LF%29%28SN%29-JST-datasheet-10558886.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Apr-09"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3" ("P3"); Footprint = "JST-B4B-PH-K-S_V"; UniqueID = "\JCWVBVDI" ("\JCWVBVDI")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B4B-PH-K-S%28LF%29%28SN%29-JST-datasheet-10558886.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Apr-09"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Component: Designator=P4(JST-B4B-PH-K-S_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B4B-PH-K-S%28LF%29%28SN%29-JST-datasheet-10558886.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=SW2 Pin=P3-2
+Added Pin To Net: NetName=+3V3 Pin=P4-1
+Added Pin To Net: NetName=SW3 Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-4
+Added Member To Class: ClassName=SectionE_BreakOut Member=Component P4 B4B-PH-K-S(LF)(SN)
+Added Room: Name=SectionE_BreakOut
